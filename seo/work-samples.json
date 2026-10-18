@@ -1,0 +1,30 @@
+[
+  {
+    "id": "M01",
+    "title": "LAPTOP_CHARGER_BRACE",
+    "caption": "The charger's strain relief tore off at the plug head, leaving the cores bare. This clamps the plug, carries the cable past the tear and clips over the laptop's rear bar. Two halves closed with cable ties, generated from a parametric Python model.",
+    "image": "/portfolio-3d/charger-brace-v1.png",
+    "alt": "Four shaded CAD views of the charger brace. The assembled part is shown from behind the laptop and from the face that touches it; below, the two halves lie flat on their split faces the way they print, and one half is turned over to show the hollow the plug barrel sits in. The part is a round ribbed sleeve on a flat mounting plate, with a thin arm hooking off one side.",
+    "specs": [
+      "Black PETG",
+      "~12 g",
+      "manifold3d + trimesh",
+      "Ender-3 V3 SE"
+    ],
+    "status": "wip"
+  },
+  {
+    "id": "M02",
+    "title": "MAZDA_FLIP_KEY_BODY",
+    "caption": "A replacement remote body for a 2007 Mazda Atenza flip key, built from caliper readings rather than a scan. Every print here starts as a blueprint: each corner and edge is tagged, and anything not yet measured stays a question mark instead of becoming a guess. Three fit-test variants are printed.",
+    "image": "/portfolio-3d/mazda-key-blueprint.png",
+    "alt": "A measurement blueprint sheet for a Mazda flip-key head. Four orthographic views — front, back, side and bottom — have every corner tagged with a red lettered point and every edge boxed in teal. A schedule beside them lists measurements A to Z in millimetres, with question marks where a reading has not been taken yet.",
+    "specs": [
+      "Caliper survey",
+      "Fusion + Python",
+      "3 fit variants",
+      "~20 g PETG"
+    ],
+    "status": "wip"
+  }
+]
